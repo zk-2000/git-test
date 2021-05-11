@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("hello git second");
         System.out.println("hello git thirdly");
+        System.out.println("hello git fourth");
     }
 }
